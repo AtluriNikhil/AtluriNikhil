@@ -47,6 +47,7 @@ Welcome to my GitHub! I'm **Nikhil Atluri**, a passionate Software Engineer and 
 - [LinkedIn](https://www.linkedin.com/in/nikhilatluri/)
 - [Portfolio](https://atlurinikhil.github.io/)
 - [Email Me](mailto:natluri@binghamton.edu)
+- [Whatsapp](https://api.whatsapp.com/send?phone=+16073138038&text=Hello)
 
 ---
 
