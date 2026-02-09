@@ -1,9 +1,9 @@
 # Hey, I'm Nikhil 👋
 
-**Backend Engineer · Distributed Systems · MS CS @ Binghamton (4.0 GPA)**
+**Software Engineer · Distributed Systems · Data Engineer · Cloud & DevOps · MS CS @ Binghamton (4.0 GPA)**
 
-I build systems that handle millions of events, serve thousands of users, and don't break at 3 AM.  
-Recognized with a **Certificate of Excellence** by the CDO & CIO of a **Fortune 100** pharmaceutical company for innovation on their enterprise Data Lake.
+I build backend systems that handle millions of events, serve thousands of users, and don't break at 3 AM.  
+3+ years shipping production systems in **Go, Java, Python, Javascript and TypeScript** — from real-time streaming to distributed consensus to AI-powered search.
 
 ---
 
@@ -34,19 +34,19 @@ Recognized with a **Certificate of Excellence** by the CDO & CIO of a **Fortune 
 
 ### 🏆 Recognition & Recommendations
 
-> *"Among the very best graduate students I've worked with — he wowed me from our first interview with his technical strength and problem-solving skills."*  
-> — **Prof. Srikanth Parameswaran, Ph.D.** · Associate Professor, Binghamton University (Direct Manager)
-
 > *"An exceptional developer. Despite being early in his career, he went above and beyond to deliver solutions that exceeded expectations."*  
 > — **Aniket Parulekar** · Data Engineer, Lupin (Client)
 
 > *"His rapid adaptation and technical expertise are impressive. He received a certificate of excellence from the Lupin CIO — a remarkable achievement."*  
-> — **Rohit Tirakaraddi** · Associate Technical Lead, Flutura (Direct Manager)
+> — **Rohit Tirakaraddi** · Associate Technical Lead, Flutura
 
 > *"Approached the project with dedication and professionalism that exceeded expectations. His contributions will have a lasting impact."*  
-> — **Saif Ahmad** · Senior Software Engineer, Yahoo (Mentor)
+> — **Saif Ahmad** · Senior Software Engineer, Yahoo
 
 🎖️ **Certificate of Excellence** — Awarded by Narendra Saini (Chief Digital & Data Officer) and Sreeji Gopinathan (Chief Information Officer) at Lupin Limited for *"excellence through Innovation — Passion for Excellence"* on the enterprise Data Lake program.
+
+> *"Among the very best graduate students I've worked with — he wowed me from our first interview with his technical strength and problem-solving skills."*  
+> — **Prof. Srikanth Parameswaran, Ph.D.** · Associate Professor, Binghamton University
 
 ### 📊 GitHub Stats
 
@@ -55,12 +55,20 @@ Recognized with a **Certificate of Excellence** by the CDO & CIO of a **Fortune 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtluriNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtluriNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nikhil_atluri?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+</p>
+
 ---
 
 ### 🎯 Currently
 
-- 🎓 Finishing MS in Computer Science at SUNY Binghamton (May 2026)
-- 🔍 Looking for **New Grad SWE roles** — Dackend, Distributed Systems, Platform Engineering, Cloud, Devops
+- 🎓 Finishing MS in Computer Science at SUNY Binghamton
+- 🔍 Looking for **SWE roles (New Grad / Junior / Mid-Level)** — Dackend, Distributed Systems, Platform Engineering, Cloud, Devops
 - 🧠 Grinding LeetCode and system design daily
 
 ### 📬 Let's Connect
