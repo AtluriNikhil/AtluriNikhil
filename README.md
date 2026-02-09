@@ -60,11 +60,11 @@ Recognized with a **Certificate of Excellence** by the CDO & CIO of a **Fortune 
 ### 🎯 Currently
 
 - 🎓 Finishing MS in Computer Science at SUNY Binghamton (May 2026)
-- 🔍 Looking for **New Grad SWE roles** — backend, distributed systems, platform engineering
+- 🔍 Looking for **New Grad SWE roles** — Dackend, Distributed Systems, Platform Engineering, Cloud, Devops
 - 🧠 Grinding LeetCode and system design daily
 
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilatluri)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natluri@binghamton.edu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/nikhil_atluri)
