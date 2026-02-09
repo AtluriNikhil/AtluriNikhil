@@ -51,16 +51,8 @@ I build backend systems that handle millions of events, serve thousands of users
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtluriNikhil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtluriNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtluriNikhil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/nikhil_atluri?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtluriNikhil&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
